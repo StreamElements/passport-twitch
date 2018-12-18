@@ -1,5 +1,5 @@
 {
-  "name": "passport-twitch",
+  "name": "@streamelements/passport-twitch",
   "version": "1.0.3",
   "description": "Twitch (OAuth) authentication strategies for Passport.",
   "keywords": [
